@@ -1,0 +1,1 @@
+The Literature library's “Load demo papers” button inserts two explicitly fictional, synthetic references for demonstration. They are not academic publications and must not be cited as real research. Delete them before performing a real literature review.
